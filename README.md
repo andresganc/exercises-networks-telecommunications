@@ -1,5 +1,6 @@
 
-# [<img src="./readme/img/rest-api.jpeg" width="600" />](https://developer.mozilla.org/es/docs/Web/JavaScript)
+# NC CONTROL HOURS 
 
-# api-rest
-Curso NC de API REST
+- NC Control Hours
+
+Tec:  React - TypeScript
