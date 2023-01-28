@@ -1,6 +1,6 @@
 
-# NC CONTROL HOURS 
+# NC TIME CONTROL
 
-- NC Control Hours
+- NC Time Control
 
-Tec:  React - TypeScript
+Tec:  Lit & React - TypeScript
