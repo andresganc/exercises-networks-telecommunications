@@ -1,8 +1,11 @@
 import { html, css, LitElement } from 'lit';
 
+// Components
+import './nc-time-control-basic/index.js';
+
 export class NcTimeControlLitTs extends LitElement {
   render() {
-    return html` <h2>My App</h2> `;
+    return html` <index-nc-time-control></index-nc-time-control> `;
   }
 
   static styles = css`
